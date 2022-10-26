@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloVeloso94
 - 👀  Estudante de programação em busca de uma nova carreira 
-- 🌱 Atualmento, estou estudando JAVASCRIPT
+- 🌱 No momento, estou estudando JAVASCRIPT
 - 💞️ Utilizo frenquentemente HTML  e CSS e projetos prontos e aglguns em preparação
 - 📫 How to reach me  https://www.linkedin.com/in/pablo-veloso-75126a231/
 
