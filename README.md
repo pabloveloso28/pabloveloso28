@@ -1,7 +1,7 @@
 
  Oi, me chamo Pablo Veloso, sou Desenvolvedor Front-End e em busca de novas oportunidades.
 <br>
-<br>
+
 
 No momento, estou aperfeiçoando Javascript e React.
 
