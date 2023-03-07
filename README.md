@@ -11,10 +11,10 @@ No momento, estou aperfeiçoando Javascript e React.
 
 Linguagens e Ferramentas:
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" alt="HTML-Logo"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" alt="CSS-Logo">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30px" alt="JAVASCRIPT-Logo">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px" alt="React-Logo">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" alt="HTML-Logo"> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" alt="CSS-Logo"></a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30px" alt="JAVASCRIPT-Logo"></a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px" alt="React-Logo"></a>
 
 <br>
 
