@@ -15,6 +15,7 @@ Linguagens e Ferramentas:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" alt="CSS-Logo"></a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30px" alt="JAVASCRIPT-Logo"></a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px" alt="React-Logo"></a>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" width="30px" alt="React-Logo"></a>
 
 <br>
 
